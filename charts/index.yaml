@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  sre-offerings:
+  - apiVersion: v1
+    appVersion: "1"
+    created: "2024-10-30T13:22:14.160666729+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 54b0feabfe7d134d67af12e3993432ed468959baa66f8da9d4903513043a0724
+    name: sre-offerings
+    type: application
+    urls:
+    - https://nagalosh006.github.io/leaning/sre-offerings-1.0.0.tgz
+    version: 1.0.0
+generated: "2024-10-30T13:22:14.158815663+05:30"
